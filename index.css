@@ -8,4 +8,13 @@ em {
     color:red;  
     }
 
-th {font-weight}
+    h1 {
+        border: 2px blue solid; 
+        padding 15px;
+        margin bottom: 15px;
+    }
+
+    .my-h1{
+        font-size: 20px
+    }
+    
